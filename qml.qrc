@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Pv.js</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>RokuControl.qml</file>
+        <file>png/arrows.png</file>
+        <file>png/down-arrow.png</file>
+        <file>png/home.png</file>
+        <file>png/left-arrow-1.png</file>
+        <file>png/left-arrow.png</file>
+        <file>png/miscellaneus.png</file>
+        <file>png/power.png</file>
+        <file>png/remote-control-fast-forward-button.png</file>
+        <file>png/right-arrow.png</file>
+        <file>png/shapes.png</file>
+        <file>png/up-arrow.png</file>
+        <file>png/volume-down-interface-symbol.png</file>
+        <file>png/volume-mute-interface-symbol.png</file>
+        <file>png/volume-up-interface-symbol.png</file>
+        <file>png/remote-control-fast-back-button.png</file>
+        <file>PvsPage.qml</file>
+        <file>png/icon 96x96.png</file>
+        <file>png/icon 72x72.png</file>
+        <file>png/icon 48x48.png</file>
+    </qresource>
+</RCC>
